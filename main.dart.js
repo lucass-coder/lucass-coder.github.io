@@ -54385,7 +54385,7 @@ M(a){var s=null,r=A.cW(s,B.w5,B.xT,s,40,s,s,384),q=this.a.c,p=t.p
 return A.pS(A.cW(s,A.hQ(A.a([A.lu(B.aZ,A.a([new A.dR(B.l9,r,s),new A.dR(B.yV,A.fS(s,A.i7(A.cW(s,B.zj,B.aS,s,28,s,s,30),B.jC,s,s,s),B.Q,!1,s,s,s,s,s,s,s,s,s,s,s,q,s,s,s,s,s,s),s)],p),B.bk),new A.AS(new A.a34(this),s)],p),B.az,B.V),B.aS,s,400,s,s,400),s,s)}}
 A.a34.prototype={
 $2(a,b){var s=null,r=this.a,q=r.a,p=t.p
-q=A.jB(A.a([new A.j9("https://github.com/lucass-coder/lucass-coder.github.io/blob/main/assets/assets/images/image-1.png?raw=true",q.d,s),new A.j9("assets/images/image-2.png",q.e,s)],p),B.V,B.aq)
+q=A.jB(A.a([new A.j9("assets/images/image-1.png",q.d,s),new A.j9("assets/images/image-2.png",q.e,s)],p),B.V,B.aq)
 r=r.a
 return new A.fL(B.uS,new A.AI(new A.Dk(A.hQ(A.a([q,A.jB(A.a([new A.j9("assets/images/image-3.png",r.f,s),new A.j9("assets/images/image-4.png",r.r,s)],p),B.V,B.aq)],p),B.az,B.V),s),s),s)},
 $S:322}
