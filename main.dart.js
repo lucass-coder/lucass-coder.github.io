@@ -17075,7 +17075,6 @@ qX:function qX(a){this.a=a},
 Ha:function Ha(a,b){var _=this
 _.f=_.e=!1
 _.w=a
-_.x="image-4"
 _.a=null
 _.b=b
 _.c=null},
@@ -54490,7 +54489,7 @@ M(a){return new A.rC(B.zc,"Lucas Santana Portf\xf3lio",A.aaB(null,B.fm,null),!1,
 A.qX.prototype={
 ac(){return new A.Ha(new A.K(4278222977),B.l)}}
 A.Ha.prototype={
-M(a){var s=this,r=null,q=A.a8L(B.uW,new A.l7("assets/images/"+s.x+".png"),1),p=A.aaP(new A.v7(new A.a1x(s),new A.a1y(s),new A.a1z(s),new A.a1A(s),new A.a1B(s),r),s.f),o=t.p,n=A.hU(A.a([A.hU(A.a([new A.kU("Computador","computer",r,r),new A.kU("imagens","folder",new A.a1C(s),r),new A.kU("WhattsApp","phone",new A.a1D(s),r)],o),B.az,B.V)],o),B.cW,B.V),m=A.aaP(new A.DS(r),s.e),l=a.a5(t.w).f
+M(a){var s=this,r=null,q=A.a8L(B.uW,new A.l7("https://github.com/lucass-coder/lucass-coder.github.io/blob/main/assets/assets/images/image-4.png?raw=true"),1),p=A.aaP(new A.v7(new A.a1x(s),new A.a1y(s),new A.a1z(s),new A.a1A(s),new A.a1B(s),r),s.f),o=t.p,n=A.hU(A.a([A.hU(A.a([new A.kU("Computador","computer",r,r),new A.kU("imagens","folder",new A.a1C(s),r),new A.kU("WhattsApp","phone",new A.a1D(s),r)],o),B.az,B.V)],o),B.cW,B.V),m=A.aaP(new A.DS(r),s.e),l=a.a5(t.w).f
 return A.fV(r,new A.u_(A.cX(r,A.lz(B.aZ,A.a([p,n,A.hU(A.a([m,new A.mi(B.ee,r,r,A.cX(r,A.jF(A.a([A.jO(r,r,20),A.fV(r,new A.pQ(s.e,r),B.Q,!1,r,r,r,r,r,r,r,r,r,r,r,new A.a1E(s),r,r,r,r,r,r),new A.nX(r),new A.uR(r),A.jO(r,r,16)],o),B.V,B.aq),B.aS,r,46,r,r,l.a.a),r)],o),B.cW,B.CY)],o),B.bk),r,new A.d9(r,q,r,r,r,r,B.Y),r,r,r,r),r),B.Q,!1,r,r,r,r,r,r,r,r,r,r,new A.a1F(s),new A.a1G(s),r,r,r,r,r,r)}}
 A.a1F.prototype={
 $0(){return this.a.a4(new A.a1p())},
@@ -54519,28 +54518,28 @@ $0(){var s=this.a
 return s.a4(new A.a1v(s))},
 $S:0}
 A.a1v.prototype={
-$0(){this.a.x="image-1"},
+$0(){},
 $S:0}
 A.a1z.prototype={
 $0(){var s=this.a
 return s.a4(new A.a1u(s))},
 $S:0}
 A.a1u.prototype={
-$0(){this.a.x="image-2"},
+$0(){},
 $S:0}
 A.a1A.prototype={
 $0(){var s=this.a
 return s.a4(new A.a1t(s))},
 $S:0}
 A.a1t.prototype={
-$0(){this.a.x="image-3"},
+$0(){},
 $S:0}
 A.a1B.prototype={
 $0(){var s=this.a
 return s.a4(new A.a1s(s))},
 $S:0}
 A.a1s.prototype={
-$0(){this.a.x="image-4"},
+$0(){},
 $S:0}
 A.a1C.prototype={
 $0(){var s=this.a
@@ -54686,7 +54685,7 @@ M(a){var s=null,r=A.cX(s,B.w5,B.xT,s,40,s,s,384),q=this.a.c,p=t.p
 return A.q_(A.cX(s,A.hU(A.a([A.lz(B.aZ,A.a([new A.dU(B.l9,r,s),new A.dU(B.yV,A.fV(s,A.ib(A.cX(s,B.zj,B.aS,s,28,s,s,30),B.jC,s,s,s),B.Q,!1,s,s,s,s,s,s,s,s,s,s,s,q,s,s,s,s,s,s),s)],p),B.bk),new A.B4(new A.a3l(this),s)],p),B.az,B.V),B.aS,s,400,s,s,400),s,s)}}
 A.a3l.prototype={
 $2(a,b){var s=null,r=this.a,q=r.a,p=t.p
-q=A.jF(A.a([new A.jd("assets/images/image-1.png",q.d,s),new A.jd("assets/images/image-2.png",q.e,s)],p),B.V,B.aq)
+q=A.jF(A.a([new A.jd("https://github.com/lucass-coder/lucass-coder.github.io/blob/main/assets/assets/images/image-1.png?raw=true",q.d,s),new A.jd("assets/images/image-2.png",q.e,s)],p),B.V,B.aq)
 r=r.a
 return new A.fO(B.uS,new A.AV(new A.Dx(A.hU(A.a([q,A.jF(A.a([new A.jd("assets/images/image-3.png",r.f,s),new A.jd("assets/images/image-4.png",r.r,s)],p),B.V,B.aq)],p),B.az,B.V),s),s),s)},
 $S:327}
